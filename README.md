@@ -1,7 +1,7 @@
 ### Hi there 👨🏻‍💻
 
 - 🌱 I’m currently learning [backend](https://practicum.yandex.ru/profile/backend-developer/?from=new_landing_backend-developer)
-- 📫 The easiest way to reach me is [telegram](https://t.me/nikissem)
+- 📫 How to reach me: [telegram](https://t.me/nikissem) or [LinkedIn](https://www.linkedin.com/in/nisemenov/)
 
 ### My study projects
 
