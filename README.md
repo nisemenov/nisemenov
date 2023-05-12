@@ -5,7 +5,7 @@
 
 ### My study projects
 
-| [Python OOP](https://younglinux.info/oopython/course) | [Yandex Practicum](https://practicum.yandex.ru/profile/backend-developer/?from=new_landing_backend-developer) |
+| [Python OOP](https://younglinux.info/oopython/course) | Back-end development |
 | :---: | :---: |
 | [Create an instance of a class](https://github.com/nisemenov/create_class_instance.git) | [Money and Calories Calculator](https://github.com/nisemenov/hw_python_oop.git) |
 | [Inheritance](https://github.com/nisemenov/inheritance.git) |  |
