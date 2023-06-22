@@ -5,7 +5,7 @@
 
 ### My study projects
 
-| [Python OOP](https://younglinux.info/oopython/course) | Back-end development |
+| [Python OOP](https://younglinux.info/oopython/course) | Backend projects |
 | :---: | :---: |
 | [Create an instance of a class](https://github.com/nisemenov/create_class_instance.git) | [Money and Calories Calculator](https://github.com/nisemenov/hw_python_oop.git) |
 | [Inheritance](https://github.com/nisemenov/inheritance.git) | [Social network](https://github.com/nisemenov/hw05_final.git) |
@@ -19,7 +19,7 @@
   <a href="https://www.codewars.com/users/nisemenov" target="_blank"> <img src="https://www.codewars.com/users/nisemenov/badges/small"alt="codewars"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
