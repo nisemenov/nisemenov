@@ -9,7 +9,7 @@
 | :---: | :---: |
 | [Create an instance of a class](https://github.com/nisemenov/create_class_instance.git) | [Money and Calories Calculator](https://github.com/nisemenov/hw_python_oop.git) |
 | [Inheritance](https://github.com/nisemenov/inheritance.git) | [Social network](https://github.com/nisemenov/hw05_final.git) |
-| [Polymorphism](https://github.com/nisemenov/polymorthism.git) |  |
+| [Polymorphism](https://github.com/nisemenov/polymorthism.git) | [Telegram bot](https://github.com/nisemenov/api_sp1_bot.git) |
 | [Encapsulation](https://github.com/nisemenov/encapsulation.git) |  |
 | [Composition](https://github.com/nisemenov/composition.git) |  |
 | [Operator overloading](https://github.com/nisemenov/operator_overloading.git) |  |
