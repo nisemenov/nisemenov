@@ -16,7 +16,7 @@
 
 <h3 align="left">Links to some of my activities:</h3>
 <p align="left">
-  <a href="https://stepik.org/users/641439102/profile" target="_blank"><img src="https://stepik.org/static/frontend/topbar_logo.svg" height=40 alt="Stepik"></a></br>
+  <a href="https://stepik.org/users/641439102/profile" target="_blank"><img src="https://cdn.stepik.net/static/classic/ico/favicon.ico" height=40 alt="Stepik"></a></br>
   <a href="https://www.codewars.com/users/nisemenov" target="_blank"> <img src="https://www.codewars.com/users/nisemenov/badges/small"alt="codewars"/></a>
 </p>
 
