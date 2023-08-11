@@ -17,6 +17,7 @@
 <h3 align="left">Links to some of my activities:</h3>
 <p align="left">
   <a href="https://stepik.org/users/641439102/profile" target="_blank"><img src="https://cdn.stepik.net/static/classic/ico/favicon.ico" height=40 alt="Stepik"></a></br>
+  <a href="https://leetcode.com/nisemenov/" target="_blank"><img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" height=30 alt="LeedCode"></a></br>
   <a href="https://www.codewars.com/users/nisemenov" target="_blank"> <img src="https://www.codewars.com/users/nisemenov/badges/small"alt="codewars"/></a>
 </p>
 
