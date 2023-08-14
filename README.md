@@ -7,7 +7,7 @@
 
 | [Python OOP](https://younglinux.info/oopython/course) | Backend projects | [Some own projects](https://github.com/stars/nisemenov/lists/own-projects) |
 | :---: | :---: | :---: |
-| [Create an instance of a class](https://github.com/nisemenov/create_class_instance.git) | [Money and Calories Calculator](https://github.com/nisemenov/hw_python_oop.git) | [Encoding and parsing utulity](https://github.com/nisemenov/pars_encod_utility) |
+| [Create an instance of a class](https://github.com/nisemenov/create_class_instance.git) | [Money and Calories Calculator](https://github.com/nisemenov/hw_python_oop.git) | [Encoding and parsing utility](https://github.com/nisemenov/pars_encod_utility) |
 | [Inheritance](https://github.com/nisemenov/inheritance.git) | [Social network](https://github.com/nisemenov/hw05_final.git) |
 | [Polymorphism](https://github.com/nisemenov/polymorthism.git) | [Telegram bot](https://github.com/nisemenov/api_sp1_bot.git) |
 | [Encapsulation](https://github.com/nisemenov/encapsulation.git) | [API for "Social network" project](https://github.com/nisemenov/api_final_yatube-master.git) |
