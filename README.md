@@ -11,7 +11,7 @@
 | [Inheritance](https://github.com/nisemenov/inheritance.git) | [Social network](https://github.com/nisemenov/hw05_final.git) |
 | [Polymorphism](https://github.com/nisemenov/polymorthism.git) | [Telegram bot](https://github.com/nisemenov/api_sp1_bot.git) |
 | [Encapsulation](https://github.com/nisemenov/encapsulation.git) | [API for "Social network" project](https://github.com/nisemenov/api_final_yatube-master.git) |
-| [Composition](https://github.com/nisemenov/composition.git) |  |
+| [Composition](https://github.com/nisemenov/composition.git) | [YaMDB API project](https://github.com/nisemenov/api_yamdb-master) |  |
 | [Operator overloading](https://github.com/nisemenov/operator_overloading.git) |  |
 
 <h3 align="left">Links to some of my activities:</h3>
