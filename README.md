@@ -26,7 +26,10 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" width="40" height="40"></a>
-  <a href="https://my-learning.w3schools.com/tutorial/sql" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="html5" width="40" height="40"></a>    
+  <a href="https://my-learning.w3schools.com/tutorial/sql" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="html5" width="40" height="40"></a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="html5" width="50" height="50"></a>
+  <a href="https://www.postgresql.org/ target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="html5" width="40" height="40"></a>
+  <a href="https://www.nginx.com/ target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="html5" width="40" height="40"></a>
 </p>
 
 ---
