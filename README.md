@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend
 - 📫 How to reach me: [telegram](https://t.me/nikissem) or [LinkedIn](https://www.linkedin.com/in/nisemenov/)
 
-### My study projects
+### My study projects:
 
 | [Python OOP](https://younglinux.info/oopython/course) | Backend projects | [Some own projects](https://github.com/stars/nisemenov/lists/own-projects) |
 | :---: | :---: | :---: |
